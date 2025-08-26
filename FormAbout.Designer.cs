@@ -65,7 +65,7 @@
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.label1);
             this.Name = "FormAbout";
-            this.Text = "FormAbout";
+            this.Text = "FortuneBite 정보";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
 

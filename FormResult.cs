@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace FortuneBite
 {
-    public partial class Form1 : Form
+    public partial class FormResult : Form
     {
-        public Form1()
+        public FormResult()
         {
             InitializeComponent();
         }
