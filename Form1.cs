@@ -46,5 +46,10 @@ namespace FortuneBite
         {
 
         }
+
+        private void 끝내기ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }
