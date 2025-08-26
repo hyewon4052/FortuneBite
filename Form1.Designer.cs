@@ -179,6 +179,7 @@
             this.fortuneBite정보ToolStripMenuItem.Name = "fortuneBite정보ToolStripMenuItem";
             this.fortuneBite정보ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.fortuneBite정보ToolStripMenuItem.Text = "FortuneBite 정보";
+            this.fortuneBite정보ToolStripMenuItem.Click += new System.EventHandler(this.fortuneBite정보ToolStripMenuItem_Click);
             // 
             // 끝내기ToolStripMenuItem
             // 

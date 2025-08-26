@@ -51,5 +51,11 @@ namespace FortuneBite
         {
             Application.Exit();
         }
+
+        private void fortuneBite정보ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FormAbout formAbout = new FormAbout();
+            formAbout.ShowDialog();
+        }
     }
 }
